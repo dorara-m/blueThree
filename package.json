@@ -10,7 +10,7 @@
     "defaults"
   ],
   "keywords": [],
-  "author": "maashi",
+  "author": "numecha",
   "license": "Apache-2.0",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
